@@ -13,7 +13,7 @@ Analyze the Railway Management System and model its components through the follo
 5.Communication Diagram – Highlights interactions between system components such as Passenger, Ticketing System, and Admin.
 6.Package Diagram – Organizes components into logical modules like User Interface, Ticketing Module, and Schedule Management.
 
-# DIAGRAMS:
+# DIAGRAMS: 
 ## USE CASE DIAGRAM
 
 ![image](https://github.com/user-attachments/assets/fa84788f-fed9-4e70-b001-45cc8b7a1b18)
