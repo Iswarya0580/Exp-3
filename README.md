@@ -4,6 +4,7 @@
 To study the problem statement and SRS of a Railway Management System and represent its system architecture using UML diagrams.
 
 # SRS (Procedure):
+```
 Analyze the Railway Management System and model its components through the following UML diagrams:
 
 1.Use Case Diagram – Identifies actors (e.g., Passenger, Admin) and system functionalities (e.g., Book Ticket, Cancel Ticket, Check Schedule).
@@ -12,7 +13,7 @@ Analyze the Railway Management System and model its components through the follo
 4.Sequence Diagram – Illustrates object interactions in time sequence during operations like booking a ticket.
 5.Communication Diagram – Highlights interactions between system components such as Passenger, Ticketing System, and Admin.
 6.Package Diagram – Organizes components into logical modules like User Interface, Ticketing Module, and Schedule Management.
-
+```
 # DIAGRAMS: 
 ## USE CASE DIAGRAM
 
